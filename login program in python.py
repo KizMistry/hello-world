@@ -1,3 +1,6 @@
+# this is a comment to demonstrate a change in a branched repo ready for merging
+# this code is for a login program
+
 users = {"user1": "password1", "user2": "password2"}
 
 def is_valid_user(username):
